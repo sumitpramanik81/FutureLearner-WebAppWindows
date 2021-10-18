@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureLearnerPathsalaWebApp", "FutureLearnerPathsalaWebApp\FutureLearnerPathsalaWebApp.csproj", "{94AF0FD2-7817-44E4-B40A-FD672A66FA45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94AF0FD2-7817-44E4-B40A-FD672A66FA45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94AF0FD2-7817-44E4-B40A-FD672A66FA45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94AF0FD2-7817-44E4-B40A-FD672A66FA45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94AF0FD2-7817-44E4-B40A-FD672A66FA45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5276F03F-CE60-4B93-90CA-B81D10D17CDE}
+	EndGlobalSection
+EndGlobal
